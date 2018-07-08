@@ -9,11 +9,11 @@ I believe that this is a markdown page that is used for *.md, metadata files
 ### `Code` included in the _index.html_ file...
 
 
-`<h1>Hello, World!</h1>
+`<h1>Hello, World!</h1>`
 
 `<p>Home of 'sesto-elemento'</p>`
 
-`<h3>Welcome to My GitHub Site</h3`>
+`<h3>Welcome to My GitHub Site</h3>`
 
 `<b>Below is where I will include my future accomplishments</b>`
 
